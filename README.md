@@ -93,4 +93,7 @@ This video demonstrates the full gameplay experience, including:
 - Dark / Light mode toggle
 - Accessibility mode
 - Score tracking and win/loss scenarios
-![Mastermind Game Demo](assets/mastermind-demo.gif)
+
+<p align="center">
+  <img src="assets/mastermind-demo.gif" width="900">
+</p>
