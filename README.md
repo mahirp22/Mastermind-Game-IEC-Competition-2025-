@@ -54,3 +54,25 @@ Here’s what you can do with the Mastermind Game:
 
 - Works smoothly on desktop, tablet, and mobile devices
 
+interactions
+
+### 👩🏽‍🍳 The Process
+
+We started by defining the core Mastermind logic, focusing on correctness and fairness. The most critical part was implementing the two-pass evaluation algorithm to accurately score black and white pegs without double-counting.
+Once the logic was stable, we shifted attention to state management; tracking guesses, attempts, difficulty changes, wins/losses, and score history, all without relying on external libraries.
+From there, we designed the UI with a strong focus on:
+- Clarity of feedback
+- Accessibility
+- Visual engagement
+Features like dark/light mode, accessibility toggles, and score tracking were added to elevate the project beyond a basic game implementation and make it competition-ready.
+Finally, we tested the game across different difficulties, screen sizes, and edge cases to ensure consistent behavior and a smooth user experience.
+
+### 🚦Running the Project
+
+To run the project locally:
+1. Clone the repository:
+git clone https://github.com/your-username/MastermindGame-IEC-Competition-2025.git
+2. Open the project folder
+3. Open index.html in your browser
+
+
