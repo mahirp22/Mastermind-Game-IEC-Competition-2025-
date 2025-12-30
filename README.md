@@ -58,9 +58,8 @@ Finally, we tested the game across different difficulties, screen sizes, and edg
 
 ### 🚦Running the Project
 To run the project locally:
-1. Clone the repository:
-git clone https://github.com/your-username/MastermindGame-IEC-Competition-2025.git
-2. Open the project folder
-3. Open index.html in your browser
+1. Clone the repository to your local machine.
+2. Open the project folder.
+3. Open index.html in your browser.
 
 
