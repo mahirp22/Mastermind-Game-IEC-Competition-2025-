@@ -95,5 +95,5 @@ This video demonstrates the full gameplay experience, including:
 - Score tracking and win/loss scenarios
 
 <p align="center">
-  <img src="assets/mastermind-demo.gif" width="1000">
+  <img src="assets/mastermind-demo.mp4" width="1000">
 </p>
