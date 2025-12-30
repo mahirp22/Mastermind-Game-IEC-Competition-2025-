@@ -9,7 +9,7 @@ The goal was to design an engaging, accessible, and competitive game experience 
 - CSS (custom animations, glassmorphism, responsive design)
 - JavaScript
 
-### Features
+### 💡Features
 
 Here’s what you can do with the Mastermind Game:
 
