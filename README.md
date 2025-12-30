@@ -62,4 +62,35 @@ To run the project locally:
 2. Open the project folder.
 3. Open index.html in your browser.
 
+### 📚 What We Learned
+This project reinforced both technical and collaborative skills.
 
+#### 🧠 Game Logic & Algorithms
+Implemented a non-trivial Mastermind scoring algorithm
+Learned how to prevent duplicate matches using array copies and multi-pass evaluation
+
+#### 🔄 State Management Without Frameworks
+Managed complex game state manually using vanilla JavaScript
+Coordinated UI updates with game logic cleanly and predictably
+
+#### ♿ Accessibility & UX Design
+Gained experience designing features for inclusive gameplay
+Learned how small UI decisions significantly affect usability
+
+#### 🎨 UI/UX & Frontend Polish
+Improved CSS skills with animations, transitions, and responsive layouts
+Designed a visually appealing interface under competition time constraints
+
+#### 🤝 Team Collaboration
+Worked effectively in a team environment
+Balanced responsibilities between logic, UI, testing, and refinement
+
+### 🍿 Video Demo
+#### 🎥 Gameplay Walkthrough
+This video demonstrates the full gameplay experience, including:
+- Difficulty selection
+- Guess submission and feedback
+- Dark / Light mode toggle
+- Accessibility mode
+- Score tracking and win/loss scenarios
+![Mastermind Game Demo](assets/mastermind-demo.gif)
