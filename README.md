@@ -10,35 +10,29 @@ The goal was to design an engaging, accessible, and competitive game experience 
 - JavaScript
 
 ### 💡Features
-
 Here’s what you can do with the Mastermind Game:
 
 #### 🎯 Play the Classic Mastermind Game
-
 - Crack a hidden numeric code within a limited number of attempts
 *   Receive accurate feedback after each guess:
     *   Black pegs → correct number & correct position
     *   White pegs → correct number, wrong position
 
 #### 🔢 Multiple Difficulty Levels
-
 - Easy – 4-digit code
 - Hard – 6-digit code
 - Impossible – 8-digit code
 - Each difficulty adjusts the code length and number of allowed attempts.
 
 #### 🌙 Dark / Light Mode
-
 - Toggle between dark and light themes for visual comfort
 - Theme choice updates the entire UI dynamically
 
 #### ♿ Accessibility Mode
-
 - Displays numeric labels on color pegs
 - Designed to support color-blind users and inclusive gameplay
 
 #### 📊 Score Tracking
-
 *   Tracks:
     *   Highest score (fewest attempts)
     *   Total games played
@@ -46,18 +40,13 @@ Here’s what you can do with the Mastermind Game:
 - Encourages replayability and performance improvement
 
 #### 🧾 Guess History: 
-
 - Displays previous guesses with visual feedback
 - Helps players reason about patterns and refine strategies
 
 #### 📱 Responsive Design:
-
-- Works smoothly on desktop, tablet, and mobile devices
-
-interactions
+- Works smoothly on desktop, tablet, and mobile devices interactions
 
 ### 👩🏽‍🍳 The Process
-
 We started by defining the core Mastermind logic, focusing on correctness and fairness. The most critical part was implementing the two-pass evaluation algorithm to accurately score black and white pegs without double-counting.
 Once the logic was stable, we shifted attention to state management; tracking guesses, attempts, difficulty changes, wins/losses, and score history, all without relying on external libraries.
 From there, we designed the UI with a strong focus on:
@@ -68,7 +57,6 @@ Features like dark/light mode, accessibility toggles, and score tracking were ad
 Finally, we tested the game across different difficulties, screen sizes, and edge cases to ensure consistent behavior and a smooth user experience.
 
 ### 🚦Running the Project
-
 To run the project locally:
 1. Clone the repository:
 git clone https://github.com/your-username/MastermindGame-IEC-Competition-2025.git
